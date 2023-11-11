@@ -30,11 +30,10 @@ The core of our narrative lies in the `sales_chartsanddashboards.xlsx` file. Thi
 ```plaintext
 sales_dashboard/
 │
-├── data/
-│   └── sales_chartsanddashboards.xlsx
+├──  README.md
 │
 │
-└── README.md
+└── sales_chartsanddashboards.xlsx
 The project structure is organized for clarity. The primary data file resides in the data directory.
 
 Contribution
