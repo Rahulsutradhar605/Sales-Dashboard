@@ -8,9 +8,9 @@ Welcome to a journey through the intricate web of commerce, narrated by my Sales
 - [Data Overview](#data-overview)
 - [Dashboard Preview](#dashboard-preview)
 - [File Structure](#file-structure)
-- Contribution
-- Reporting Issues
-- Licensing
+- [Contribution](#Contribution)
+- [Reporting Issues](#Reporting_Issues)
+- [Licensing](#Licensing)
 
 ## Introduction
 
@@ -27,7 +27,6 @@ The core of our narrative lies in the `sales_chartsanddashboards.xlsx` file. Thi
 
 ## File Structure
 
-```plaintext
 sales_dashboard/
 │
 ├── LICENSE 
@@ -39,13 +38,13 @@ sales_dashboard/
 
 The project structure is organized for clarity. The primary data file resides in the data directory.
 
-Contribution
+## Contribution
 This narrative thrives on collaboration. If you have inspired ideas or insights to enrich our storytelling, your contributions are not only welcomed but encouraged. Feel free to fork the repository, make your enhancements, and submit a pull request.
 
-Reporting Issues
+## Reporting Issues
 To maintain the integrity of the narrative, please report any issues or suggest improvements by opening an issue. Your meticulous observations will shape the evolution of this story.
 
-Licensing
+## Licensing
 This project is open-source and operates under the MIT License. Feel free to explore, adapt, and contribute to this narrative.
 
 Embark on this journey with me, and let the data unfold its compelling story. Together, let's explore the intricacies of commerce and unveil the insights that lie within.
