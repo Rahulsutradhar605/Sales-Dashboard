@@ -1,6 +1,7 @@
 # Sales Dashboard - by Rahul Sutradhar
 
-Greetings, data enthusiasts! I'm Rahul Sutradhar, a passionate student exploring the world of Computer Science Engineering at Lovely Professional University (LPU). Welcome to a journey through the intricate web of commerce, narrated by my Sales Dashboard project.
+Greetings, data enthusiasts! I'm Rahul Sutradhar, a passionate student exploring the world of Computer Science Engineering at Lovely Professional University (LPU). 
+Welcome to a journey through the intricate web of commerce, narrated by my Sales Dashboard project.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -32,9 +33,8 @@ sales_dashboard/
 ├── data/
 │   └── sales_chartsanddashboards.xlsx
 │
-├── README.md
 │
-└── .gitignore
+└── README.md
 The project structure is organized for clarity. The primary data file resides in the data directory.
 
 Contribution
