@@ -9,7 +9,7 @@ Welcome to a journey through the intricate web of commerce, narrated by my Sales
 - [Dashboard Preview](#dashboard-preview)
 - [File Structure](#file-structure)
 - [Contribution](#Contribution)
-- [Reporting Issues](##reporting-issues)
+- [Reporting Issues](#reporting-issues)
 - [Licensing](#Licensing)
 
 ## Introduction
