@@ -1,4 +1,4 @@
-# Sales Dashboard - by Rahul Sutradhar
+# Sales Dashboard 
 
 Greetings, data enthusiasts! I'm Rahul Sutradhar, a passionate student exploring the world of Computer Science Engineering at Lovely Professional University (LPU). 
 Welcome to a journey through the intricate web of commerce, narrated by my Sales Dashboard project.
